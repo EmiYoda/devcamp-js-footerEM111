@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footerem111",
+  "version": "0.1.0",
+  "description": "This module allow to create a dynamic footer for JS apps with an updated version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiYoda/devcamp-js-footerEM111.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "3mi <emilianodelvalle@icloud.com> (https://www.npmjs.com/~3mi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmiYoda/devcamp-js-footerEM111/issues"
+  },
+  "homepage": "https://github.com/EmiYoda/devcamp-js-footerEM111#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
